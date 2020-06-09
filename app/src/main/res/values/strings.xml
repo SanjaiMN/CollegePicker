@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">College Picker</string>
+    <string name="_0_colleges_selected">0 colleges selected</string>
+    <string-array name="department">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>MECH</item>
+    </string-array>
+    <string-array name="Ahpvalues">
+        <item>Equal Importance(1)</item>
+        <item>Moderate Importance(3)</item>
+        <item>Strong Importance(5)</item>
+        <item>Very Strong Importance(7)</item>
+        <item>Extreme Importance(9)</item>
+        <item>Inverse Moderate Importance(1/3)</item>
+        <item>Inverse Strong Importance(1/5)</item>
+        <item>Inverse Very Strong Importance(1/7)</item>
+        <item>Inverse Extreme Importance(1/9)</item>
+    </string-array>
+</resources>
